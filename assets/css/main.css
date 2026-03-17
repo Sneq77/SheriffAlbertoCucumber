@@ -15,15 +15,7 @@ header nav ul li a:hover { color:#e74c3c; }
 
 /* INTRO */
 #intro { 
-    background: url('/content.png') no-repeat center center;
-    background-size: cover;
-    height:50vh; 
-    display:flex; 
-    justify-content:center; 
-    align-items:center; 
-    text-align:center; 
-    color:#fff; 
-    position: relative;
+    background: url('/content.png') height: 50px;
 }
 
 /* CIEMNY FILTR (lepszy efekt 🔥) */
