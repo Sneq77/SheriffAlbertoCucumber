@@ -8,7 +8,7 @@ header {
     background: #2c3e50;
     padding:20px 0; 
 }
-header .container { display:flex; justify-content:space-between; align-items:center; width:90%; margin:auto; }
+header .container { display:flex; justify-content:space-between; align-items:center; width:50%; margin:auto; }
 header nav ul { list-style:none; display:flex; gap:20px; }
 header nav ul li a { color:#fff; font-weight:bold; transition:0.3s; }
 header nav ul li a:hover { color:#e74c3c; }
