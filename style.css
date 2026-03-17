@@ -52,7 +52,7 @@ header nav ul li a:hover { color:#e74c3c; }
 .card { background:#ddd; padding:20px; border-radius:10px; width:250px; }
 
 /* KONTAKT */
-#kontakt { background:#2c3e50; color:white; padding:40px; text-align:center; }
+#kontakt { background:#423b1c; color:white; padding:40px; text-align:center; }
 #kontakt form { display:flex; flex-direction:column; gap:10px; width:300px; margin:auto; }
 #kontakt input, #kontakt textarea { padding:13px; border:none; border-radius:5px; }
 #kontakt button { background:#e74c3c; color:white; padding:10px; border:none; border-radius:5px; cursor:pointer; }
