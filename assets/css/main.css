@@ -15,7 +15,7 @@ header nav ul li a:hover { color:#e74c3c; }
 
 /* INTRO */
 #intro { 
-    background: url('../../images/content.png') no-repeat center center;
+    background: url('/content.png') no-repeat center center;
     background-size: cover;
     height:80vh; 
     display:flex; 
